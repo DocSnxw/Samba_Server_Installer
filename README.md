@@ -26,7 +26,7 @@
 
 1️⃣ **Cloner le repository**
 ```bash
-git clone [URL_DU_REPO]
+git clone https://github.com/DocSnxw/smb_server_installer.git
 ```
 
 2️⃣ **Rendre le script exécutable**
