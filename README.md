@@ -26,7 +26,7 @@
 
 1️⃣ **Cloner le repository**
 ```bash
-git clone https://github.com/DocSnxw/smb_server_installer.git
+git clone https://github.com/DocSnxw/Samba_Server_Installer.git
 ```
 
 2️⃣ **Rendre le script exécutable**
